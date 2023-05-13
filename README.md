@@ -31,8 +31,7 @@
 - [x] QQ扫码登录
 ## 说明
 
-- 替换markdown 编辑器为富文本编辑器即可作为简单`CMS`,更多功能请二次开发
-[https://github.com/zxysilent/view-design-admin](https://github.com/zxysilent/view-design-admin)
+- 替换markdown 编辑器为富文本编辑器即可作为简单`CMS`,
 
 - 富文本预览地址  
 [http://qn.static.zxysilent.com/demos/view-design-admin/index.html#/pages/editor](http://qn.static.zxysilent.com/demos/view-design-admin/index.html#/pages/editor)
