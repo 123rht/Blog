@@ -33,8 +33,6 @@
 
 - 替换markdown 编辑器为富文本编辑器即可作为简单`CMS`,
 
-- 富文本预览地址  
-[http://qn.static.zxysilent.com/demos/view-design-admin/index.html#/pages/editor](http://qn.static.zxysilent.com/demos/view-design-admin/index.html#/pages/editor)
 
 - QQ扫码登录
     - 申请应用 [https://connect.qq.com](https://connect.qq.com)
